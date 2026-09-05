@@ -13,8 +13,8 @@
 <img src="https://img.shields.io/badge/B.Tech-Computer_Science-4B0082?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic" />
 <img src="https://img.shields.io/badge/Location-Pune,_India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-Website-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/kunal-chatterjee"><img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:kunalchatterjee731@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-Profile-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/>
@@ -174,7 +174,6 @@ I am a B.Tech Computer Science student and Software Developer focused on buildin
 
 <div align="center">
   
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-Premium_Coder-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Problem_Solver-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" /></a>
 <a href="#"><img src="https://img.shields.io/badge/HackerRank-5_Star_Gold-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
 <a href="#"><img src="https://img.shields.io/badge/CodeChef-Competitive_Programmer-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
